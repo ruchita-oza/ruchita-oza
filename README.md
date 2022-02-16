@@ -16,27 +16,10 @@
 
 ### <h1 align="center"> Stats </h1>
 
-<table>
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=proquicklearner&repo=connectus&theme=radical)](https://github.com/ruchita-oza/Gender-And-Age-Detaction.git)
-
-</td><td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hetvee17&repo=PHPProject_CE079_CE047&theme=radical)](https://github.com/ruchita-oza/Gender-And-Age-Detaction.git)
-
-</td>
-</tr>
-<tr><td>
+![Ruchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchita-oza&theme=radical&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchita-oza&theme=radical&layout=compact)
 
-</td><td>
-
-![Ruchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchita-oza&theme=radical&show_icons=true)
-</td></tr>
-</table>
 
 <br/>
 
