@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px"  style="color:#fff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px"  style="color:#fff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="codeSTACKr | Instagram" width="22px"  style="color:#fff;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 <br />
 
 ### <h1 align="center"> Stats </h1>
@@ -20,9 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchita-oza&theme=radical&layout=compact)
 
-
 <br/>
-
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
