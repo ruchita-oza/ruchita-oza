@@ -16,13 +16,30 @@
 
 ### <h1 align="center"> Stats </h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=proquicklearner&repo=connectus)](https://github.com/ruchita-oza/Gender-And-Age-Detaction.git)
+<table>
+<tr>
+<td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hetvee17&repo=PHPProject_CE079_CE047)](https://github.com/ruchita-oza/Gender-And-Age-Detaction.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=proquicklearner&repo=connectus&theme=radical)](https://github.com/ruchita-oza/Gender-And-Age-Detaction.git)
 
-![Ruchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchita-oza)]
+</td><td>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hetvee17&repo=PHPProject_CE079_CE047&theme=radical)](https://github.com/ruchita-oza/Gender-And-Age-Detaction.git)
+
+</td>
+</tr>
+<tr><td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchita-oza&theme=radical&layout=compact)
+
+</td><td>
+
+![Ruchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchita-oza&theme=radical&show_icons=true)
+</td></tr>
+</table>
+
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchita-oza&layout=compact)]
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
