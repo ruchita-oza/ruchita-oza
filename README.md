@@ -2,10 +2,10 @@
 
 ## I'm a Web Developer, a competitive programmer , a Graphic designer and a student!!
 
-- 🔭 Check out my VS Code course: [course]!
-- 🌱 I’m currently learning 🤣
+
+- 🌱 I’m currently learning ^^
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more Update Develope mySelf
 - ⚡ Fun fact: I love to travel and cook something easy
 
 ### Connect with me:
